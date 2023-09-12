@@ -1,0 +1,7 @@
+﻿LLM,roberta,bert (1),bert (2)
+ChatGPT3.5,100.00%,100.00%,100%
+ChatGPT3.5 (story) ,75%,75%,75%
+Bard,46.15%,70%,73.68%
+Bard (story),50%,30%,31.58%
+HuggingChat,0%,95%,89.47%
+HuggingChat (story),0%,20%,21.05%

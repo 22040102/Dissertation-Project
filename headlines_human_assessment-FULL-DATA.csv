@@ -1,0 +1,61 @@
+﻿ref,headline,exact,story,roberta,bert-base-data,bert-base-lstm,male-fake,male-fake-percent,female-fake,female-fake-percent,male-real,male-real-percent,female-real,female-real-percent,male-age,female-age
+C,Government Unveils Ambitious Plan to Modernize Public Transport Infrastructure        ,fake,fake,fake,fake,fake,6,20,5,16.67,13,43.34,6,20,20,20
+C,Landmark Education Reform Bill Passes Amidst Debate Over Curriculum Changes,fake,fake,fake,fake,fake,7,23.34,9,30,12,40,2,6.67,22,23
+C,National Health Service Announces Innovative Telemedicine Initiative,fake,fake,fake,fake,fake,15,50,11,36.67,4,13.34,0,0,22,20
+C,Local Community Rallies Together to Restore Historic Landmark,fake,real,fake,fake,fake,3,10,6,20,16,53.34,5,16.67,22,22
+C,Exclusive Interview: Leading Scientist Discusses Breakthrough in Climate Research,fake,fake,fake,fake,fake,9,30,3,10,10,33.34,8,26.67,20,19
+C,UK Economy Shows Signs of Recovery as Unemployment Rates Drop,fake,real,fake,fake,fake,3,10,3,10,16,53.34,8,26.67,19,19
+C,New Study Reveals Alarming Rise in Childhood Obesity Rates,fake,fake,fake,fake,fake,2,6.67,2,6.67,17,56.67,9,30,22,21
+C,"Royal Family Attends Charity Event, Highlights Philanthropic Efforts",fake,fake,fake,fake,fake,11,36.67,8,26.67,8,26.67,3,10,23,19
+C,Brexit Trade Talks Reach Critical Phase as Negotiators Seek Common Ground,fake,fake,fake,fake,fake,13,43.34,8,26.67,6,20,3,10,22,20
+C,"Artificial Intelligence Adoption Grows, Raising Questions About Automation Impact",fake,fake,fake,fake,fake,4,13.34,4,13.34,15,50,7,23.34,21,22
+C,Nation Celebrates Cultural Diversity with Vibrant Annual Festival,fake,fake,fake,fake,fake,15,50,8,26.67,4,13.34,3,10,20,23
+C,National Security Alert: Government Increases Counterterrorism Measures,fake,fake,fake,fake,fake,3,10,3,10,16,53.34,8,26.67,19,
+C,Investigation Uncovers Scandal Involving Prominent Political Figure,fake,real,fake,fake,fake,7,23.34,2,6.67,12,40,9,30,22,
+C,Wildlife Conservation Efforts Pay Off as Endangered Species Thrive,fake,real,fake,fake,fake,7,23.34,5,16.67,12,40,6,20,19,
+C,"Youth-Led Climate Protest Draws Thousands, Demanding Government Action",fake,real,fake,fake,fake,2,6.67,2,6.67,17,56.67,9,30,20,
+C,Tech Startups Flourish as Entrepreneurial Spirit Gains Momentum,fake,fake,fake,fake,fake,6,20,2,6.67,13,43.34,9,30,20,
+C,Housing Crisis Prompts Calls for Affordable Housing Solutions,fake,fake,fake,fake,fake,2,6.67,3,10,17,56.67,8,26.67,22,
+C,Transportation Disruption: Commuters Brace for Rail Network Overhaul,fake,fake,fake,fake,fake,2,6.67,4,13.34,17,56.67,7,23.34,21,
+C,Entertainment Industry Embraces Virtual Platforms Amidst Pandemic Challenges,fake,fake,fake,fake,fake,5,16.67,8,26.67,14,46.67,3,10,23,
+C,Innovative British Invention Revolutionizes Renewable Energy Storage,fake,fake,fake,fake,fake,6,20,6,20,13,43.34,5,16.67,,
+B,Queen Elizabeth II to step down from throne after 70 years,fake,fake,real,fake,fake,17,56.67,11,36.67,2,6.67,0,0,,
+B,UK government to introduce mandatory vaccination for all adults,fake,fake,real,fake,fake,17,56.67,10,33.34,2,6.67,1,3.34,,
+B,New study finds that climate change is causing more extreme weather events,fake,real,fake,fake,fake,0,0,0,0,19,63.34,11,36.67,,
+B,Trump announces run for president in 2024,real,real,real,fake,fake,1,3.34,0,0,18,60,11,36.67,,
+B,North Korea fires ballistic missile into the Sea of Japan,real,real,real,fake,fake,6,20,7,23.34,13,43.34,4,13.34,,
+B,China overtakes US as world's largest economy,real,real,real,fake,fake,4,13.34,5,16.67,15,50,6,20,,
+B,EU agrees to ban all Russian oil imports,fake,real,real,fake,fake,7,23.34,1,3.34,12,40,10,33.34,,
+B,Huge asteroid to pass close to Earth next week,real,real,fake,fake,fake,3,10,2,6.67,16,53.34,9,30,,
+B,Scientists discover new planet that could support life,fake,real,real,fake,fake,6,20,4,13.34,13,43.34,7,23.34,,
+B,Major breakthrough in cancer research,real,real,fake,fake,fake,7,23.34,5,16.67,12,40,6,20,,
+B,Boris Johnson to resign after partygate scandal,fake,real,real,fake,fake,3,10,4,13.34,16,53.34,7,23.34,,
+B,Keir Starmer to become next Prime Minister,fake,real,fake,fake,fake,16,53.34,9,30,3,10,2,6.67,,
+B,Labour Party to win general election with landslide victory,fake,real,real,fake,fake,8,26.67,5,16.67,11,36.67,6,20,,
+B,SNP to win Scottish independence referendum,fake,real,real,fake,fake,9,30,6,20,10,33.34,5,16.67,,
+B,UK to leave European Union without a deal,fake,fake,real,fake,fake,4,13.34,2,6.67,15,50,9,30,,
+B,Second COVID-19 pandemic hits UK,fake,fake,fake,fake,real,11,36.67,4,13.34,8,26.67,7,23.34,,
+B,Huge earthquake hits London,fake,fake,fake,fake,fake,18,60,11,36.67,1,3.34,0,0,,
+B,Met Office issues 'red alert' for extreme heat,real,real,fake,fake,fake,3,10,3,10,16,53.34,8,26.67,,
+B,UK to experience worst drought in 100 years,fake,fake,real,fake,fake,5,16.67,6,20,14,46.67,5,16.67,,
+B,Wildfires destroy large swathes of countryside,fake,real,real,fake,fake,5,16.67,2,6.67,14,46.67,9,30,,
+H,"US and China edge closer to trade deal, but tensions remain",fake,fake,real,fake,fake,4,13.34,3,10,15,50,8,26.67,,
+H,NATO chief warns of Russian threat to European security,fake,real,real,fake,fake,1,3.34,2,6.67,18,60,9,30,,
+H,"Iran nuclear deal on life support as France, Germany threaten to pull out",fake,real,real,fake,real,7,23.34,3,10,12,40,8,26.67,,
+H,"North Korea fires ballistic missile, sparking alarm in Seoul and Tokyo",fake,real,real,fake,fake,5,16.67,6,20,14,46.67,5,16.67,,
+H,"UK PM Johnson denies cover-up over Parliament shutdown, defends Brexit strategy",fake,fake,real,fake,fake,10,33.34,1,3.34,9,30,10,33.34,,
+H,Pakistan PM Khan calls for dialogue with India after Kashmir clashes,fake,real,real,fake,fake,4,13.34,0,0,15,50,11,36.67,,
+H,Putin's party wins majority in Russian parliamentary elections,real,real,real,fake,fake,4,13.34,1,3.34,15,50,10,33.34,,
+H,"US Defense Secretary Esper visits Kabul, promises continued support for Afghan forces",fake,real,real,fake,fake,16,53.34,11,36.67,3,10,0,0,,
+H,Sudan's Bashir sentenced to 20 years in prison for corruption,fake,real,real,fake,fake,7,23.34,10,33.34,12,40,1,3.34,,
+H,Protests erupt in Egypt after government proposes constitutional changes,fake,real,real,fake,fake,7,23.34,3,10,12,40,8,26.67,,
+H,"Netanyahu's Likud Party wins Israeli election, setting up right-wing coalition",fake,fake,real,fake,fake,4,13.34,4,13.34,15,50,7,23.34,,
+H,Thousands march in London to demand second Brexit referendum,fake,real,real,fake,fake,10,33.34,8,26.67,9,30,3,10,,
+H,"US and South Korea begin joint military exercises, angering Pyongyang",fake,real,real,fake,fake,3,10,2,6.67,16,53.34,9,30,,
+H,Erdogan's AKP loses Istanbul mayoralty in blow to Turkish president,fake,real,real,fake,fake,11,36.67,10,33.34,8,26.67,1,3.34,,
+H,Hong Kong police arrest dozens in latest anti-government protests,fake,real,real,fake,fake,1,3.34,0,0,18,60,11,36.67,,
+H,"Indonesia's Widodo inaugurated for second term, vows to tackle radicalism",fake,fake,real,fake,real,6,20,3,10,13,43.34,8,26.67,,
+H,Mali's Keita names new government after resignation of prime minister,fake,real,real,fake,fake,12,40,9,30,7,23.34,2,6.67,,
+H,UN Security Council extends Somalia peacekeeping mission,fake,real,real,fake,fake,2,6.67,1,3.34,17,56.67,10,33.34,,
+H,"Czech PM Babis survives no-confidence vote, keeps grip on power",fake,real,real,fake,fake,12,40,9,30,7,23.34,2,6.67,,
+H,Myanmar's Suu Kyi faces pressure over Rohingya genocide allegations at ICJ,fake,real,real,fake,real,3,10,1,3.34,16,53.34,10,33.34,,
