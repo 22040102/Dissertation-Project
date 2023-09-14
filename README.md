@@ -1,8 +1,6 @@
 # Dissertation-Project
 
-FNTP: Fake News Thesis Project
-
-This README entails the specifics of each notebook and the recommended order to go through them in line with the methodology in the written thesis.
+FNTP: Fake News Thesis Project. This README entails the specifics of each notebook and the recommended order to go through them in line with the methodology in the written thesis.
 
 ¬LSTM-Bisaillon-dataset: LSTM model run on CPU obtaining accuracy from the Bisaillon dataset.
 
